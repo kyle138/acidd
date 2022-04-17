@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/acidd.png)](https://www.npmjs.com/package/acidd)
+
 # acidd
 Color drifting frontend utility
 
