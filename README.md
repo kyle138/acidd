@@ -22,3 +22,5 @@ Add the following line in your html file:
 * <https://acidd.kylemunz.com/>
 
 ## Credits
+* Back in the early 90s there was a DOS program called 'acid' that we were using floppies to spread around. No idea who wrote it or where it came from but when you executed it as a TSR it would start to phase the R,G, & B values for the monitor. That is if you had a color monitor since those weren't ubiquitous yet back then. You could execute acid before launching win.com and then your Windows 3.1 or Win95 environment would phase as well.
+* Around 10 or 15 years ago I remembered that little app and wrote a GreaseMonkey userscript to emulate it in a web environment. Remember GreaseMonkey? Those were crazy times back before people worried about browser security I guess. The userscript site is gone now but you can still find it on the mirror: <https://userscripts-mirror.org/scripts/show/126687>
