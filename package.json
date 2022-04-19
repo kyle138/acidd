@@ -1,0 +1,25 @@
+{
+  "name": "acidd",
+  "version": "1.0.1",
+  "description": "color drifting frontend utility",
+  "main": "acidd/acidd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle138/acidd.git"
+  },
+  "keywords": [
+    "acid",
+    "color",
+    "drifting",
+    "frontend"
+  ],
+  "author": "Kyle138",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kyle138/acidd/issues"
+  },
+  "homepage": "https://github.com/kyle138/acidd#readme"
+}
