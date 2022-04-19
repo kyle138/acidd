@@ -1,5 +1,12 @@
 'use strict';
 
+/*
+* Acidd!
+* Color drifting front end script based on classes
+* https://github.com/kyle138/acidd
+* https://www.npmjs.com/package/acidd
+*/
+
 // Global array for to store the aciddified elements
 var elements = [];
 
