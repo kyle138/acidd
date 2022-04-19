@@ -19,8 +19,8 @@ Add the following line in your html file:
 * To drift both color and backgroundColor values for an element add the following classes: `acidd bgc-0 clr-2`, `acidd bgc-2 clr-13`, etc.  
 
 ## Example
-* <https://acidd.kylemunz.com/>
+* I have an example page running this script [here](https://acidd.kylemunz.com/).
 
 ## Credits
-* Back in the early 90s there was a DOS program called 'acid' that we were using floppies to spread around. No idea who wrote it or where it came from but when you executed it as a TSR it would start to phase the R,G, & B values for the monitor. That is if you had a color monitor since those weren't ubiquitous yet back then. You could execute acid before launching win.com and then your Windows 3.1 or Win95 environment would phase as well.
-* Around 10 or 15 years ago I remembered that little app and wrote a GreaseMonkey userscript to emulate it in a web environment. Remember GreaseMonkey? Those were crazy times back before people worried about browser security I guess. The userscript site is gone now but you can still find it on the mirror: <https://userscripts-mirror.org/scripts/show/126687>
+* Back in the early 90s there was a DOS program called 'acid' that we were spreading around with floppies. No idea who wrote it or where it came from but when you executed it as a TSR it would start to phase the R,G, & B values for the monitor. That is if you had a color monitor because those weren't ubiquitous yet back then. You could execute acid before launching win.com and then your Windows 3.1 or Win95 environment would phase as well. 
+* Around 10 or 15 years ago I remembered that little app and wrote a GreaseMonkey userscript to emulate it in a web environment. Remember GreaseMonkey? Those were crazy times back before people worried about browser security I guess. The userscript site is gone now but you can still find it on the mirror: <https://userscripts-mirror.org/scripts/show/126687>. Anyways, I got to thinking about that and decided to resurrect it, again.
