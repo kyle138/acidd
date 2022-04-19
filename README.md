@@ -19,6 +19,6 @@ Add the following line in your html file:
 * To drift both color and backgroundColor values for an element add the following classes: `acidd bgc-0 clr-2`, `acidd bgc-2 clr-13`, etc.  
 
 ## Example
-
+* <https://acidd.kylemunz.com/>
 
 ## Credits
