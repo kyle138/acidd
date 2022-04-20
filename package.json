@@ -1,6 +1,6 @@
 {
   "name": "acidd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "color drifting frontend utility",
   "main": "acidd/acidd.js",
   "scripts": {
